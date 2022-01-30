@@ -1,0 +1,9 @@
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\bin\Debug\PedaleaDAO.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\bin\Debug\PedaleaDAO.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\bin\Debug\PedaleaService.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\bin\Debug\PedaleaService.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\obj\Debug\PedaleaDAO.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\obj\Debug\PedaleaDAO.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\obj\Debug\PedaleaDAO.csproj.CopyComplete
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\obj\Debug\PedaleaDAO.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaDAO\obj\Debug\PedaleaDAO.pdb

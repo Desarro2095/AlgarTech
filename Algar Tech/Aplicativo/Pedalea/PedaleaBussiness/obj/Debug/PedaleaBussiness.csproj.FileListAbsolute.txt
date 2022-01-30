@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaBussiness.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaBussiness.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaDAO.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaService.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaDAO.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\bin\Debug\PedaleaService.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\obj\Debug\PedaleaBussiness.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\obj\Debug\PedaleaBussiness.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\obj\Debug\PedaleaBussiness.csproj.CopyComplete
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\obj\Debug\PedaleaBussiness.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaBussiness\obj\Debug\PedaleaBussiness.pdb

@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Compra";
+}
+
+<div class="jumbotron">
+    <h1>Pedalea</h1>
+    <p class="lead">Realiza las compras aqui!!</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <input type="hidden" id="clienteId" />
+        <input type="hidden" id="clienteCompraId" />
+        <div class="form-group">
+            <label for="clienteCedula">Cedula</label>
+            <input type="text" class="form-control" id="clienteCedula" name="clienteCedula" placeholder="Cedula">
+        </div>
+        <div class="form-group">
+            <label for="clienteNombre">Nombre</label>
+            <input type="text" class="form-control" id="clienteNombre" name="clienteNombre" placeholder="Nombre">
+        </div>
+        <div class="form-group">
+            <label for="clienteDireccion">Direccion</label>
+            <input type="text" class="form-control" id="clienteDireccion" name="clienteDireccion" placeholder="Direccion">
+        </div>
+        <div class="form-group">
+            <label for="clienteCantidad">Cantidad</label>
+            <input type="text" class="form-control" id="clienteCantidad" name="clienteCantidad" placeholder="Cantidad">
+        </div>
+        <div class="form-group">
+            <label for="clienteProducto">Producto</label>
+            <select class="form-control" id="clienteProducto">
+            </select>
+        </div>
+        <div class="form-group">
+            <button type="button" id="guardaCliente" class="btn btn-primary">Guardar</button>
+            <button type="button" id="nuevoCliente" class="btn btn-primary">Nuevo</button>
+            <button type="button" id="eliminarCliente" class="btn btn-primary">Eliminar</button>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h2>Compras</h2>
+        <table id="compraTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Cedula</th>
+                    <th>Producto</th>
+                    <th>Precio</th>
+                    <th>Cantidad</th>
+                    <th>Direccion</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Cedula</th>
+                    <th>Producto</th>
+                    <th>Precio</th>
+                    <th>Cantidad</th>
+                    <th>Direccion</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+

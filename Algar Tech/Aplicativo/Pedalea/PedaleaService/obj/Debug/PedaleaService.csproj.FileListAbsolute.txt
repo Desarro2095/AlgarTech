@@ -1,0 +1,6 @@
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\bin\Debug\PedaleaService.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\bin\Debug\PedaleaService.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\obj\Debug\PedaleaService.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\obj\Debug\PedaleaService.dll
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\obj\Debug\PedaleaService.pdb
+C:\Users\carlo\source\repos\Pedalea\PedaleaService\obj\Debug\PedaleaService.csprojAssemblyReference.cache
